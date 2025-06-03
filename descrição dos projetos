@@ -1,0 +1,40 @@
+# 📄 Organizador de Declaração de Imposto de Renda
+
+Planilha desenvolvida durante as aulas com o objetivo de facilitar a organização de informações essenciais para a declaração do Imposto de Renda.
+
+## 🧾 Sobre a ferramenta
+
+A proposta é construir um agregador de dados no qual o usuário possa registrar e controlar suas entradas de forma validada, clara e eficiente. O sistema conta com:
+
+- Menus de navegação  
+- Validações automáticas  
+- Links rápidos para facilitar o uso  
+- Interface amigável e prática  
+
+## 🛠️ Desenvolvido com
+
+- Microsoft Excel  
+- Fórmulas e validações de dados  
+- Estrutura de dashboard (com uso de VBA para alinhar e organizar os ícones)
+
+---
+
+# 🍽️ Sistema de Cardápio Automatizado para Restaurante
+
+Inspirado no projeto desenvolvido durante o curso, este sistema foi criado com o objetivo de aplicar os conhecimentos adquiridos de forma prática.
+
+## 🧾 Sobre a ferramenta
+
+Planilha autoral criada para simular um sistema de atendimento automatizado. O garçom pode selecionar itens do cardápio (café da manhã, almoço ou jantar), gerar o pedido e enviá-lo ao caixa e à produção (cozinha), tudo por meio de menus suspensos e automações no Excel.
+
+Funcionalidades principais:
+- Seleção automatizada de pratos  
+- Cálculo do valor total do pedido  
+- Painel de visualização em tempo real  
+- Envio dos pedidos para setores específicos (caixa e cozinha)
+
+## 🛠️ Desenvolvido com
+
+- Microsoft Excel  
+- Fórmulas e validações de dados  
+- Estrutura de dashboard (com uso de VBA para organização visual dos ícones)
